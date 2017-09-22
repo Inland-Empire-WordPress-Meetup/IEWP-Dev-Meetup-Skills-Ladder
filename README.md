@@ -2,7 +2,8 @@
 Contains all the repositories for code used in the #IEWP Dev meetup Skills Ladder
 
 
-### Skills Ladder Topics & Accompanying Repo Links
+
+## Skills Ladder Topics & Accompanying Repo Links
 
 • The WordPress Way 
 
@@ -43,3 +44,17 @@ Contains all the repositories for code used in the #IEWP Dev meetup Skills Ladde
 • WordPress Style guide
 
 • OOP - Where do I put my hooks!?
+
+
+## TODO For Each Module Above
+
+Since each of the bulleted topics above will be a lesson for our Dev meetup as a part of our core curriculum we will want to keep in mind that we want each lesson to be "gentle introductions" to each topic. By the time a meetup member 
+
+• Create Post for Each Lesson on IEWP Website
+• Create a Code Repo for Each Lesson on the IEWP Website
+• Create an accompanying Walkthrough Video for Each Lesson to be uploaded to YouTube & Added to the post of Each Lesson
+• Link Posts of Lessons together.
+
+
+
+
