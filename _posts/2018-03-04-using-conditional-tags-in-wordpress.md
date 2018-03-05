@@ -36,9 +36,9 @@ if ( is_author() || is_single() ) {
 }
 ?&gt;</pre>
 <h2>What this code does</h2>
-When the displayed page is an <a href="https://codex.wordpress.org/Function_Reference/is_author" target="_blank" rel="noopener">author archive</a> or a <a href="https://developer.wordpress.org/reference/functions/is_single/" target="_blank" rel="noopener">single post</a> the conditions are met and return a value of TRUE. This displays the text <strong>About the Author</strong> in bold followed by that <strong>author's biographical information</strong> and <strong>email address</strong> from their WordPress user profile.
+[caption id="attachment_4502" align="alignleft" width="334"]<a href="https://inlandempirewp.com/?attachment_id=4502"><img class="wp-image-4502 " src="https://inlandempirewp.com/wp-content/uploads/2018/03/author-example.png" alt="User Profile Example" width="334" height="247" /></a> The conditional statement displays the email address and biographical info from the website's user profile.[/caption]
 
-[caption id="attachment_4502" align="aligncenter" width="784"]<a href="https://inlandempirewp.com/?attachment_id=4502"><img class="wp-image-4502 size-full" src="https://inlandempirewp.com/wp-content/uploads/2018/03/author-example.png" alt="User Profile Example" width="784" height="580" /></a> The conditional statement displays the email address and biographical info from the website's user profile.[/caption]
+When the displayed page is an <a href="https://codex.wordpress.org/Function_Reference/is_author" target="_blank" rel="noopener">author archive</a> or a <a href="https://developer.wordpress.org/reference/functions/is_single/" target="_blank" rel="noopener">single post</a> the conditions are met and return a value of TRUE. This displays the text <strong>About the Author</strong> in bold followed by that <strong>author's biographical information</strong> and <strong>email address</strong> from their WordPress user profile.
 
 When the displayed page doesn't meet the conditional tag's requirements it returns a value of FALSE and continues to the else statement, in this case it does nothing.
 <h3>When Conditional tags are useful</h3>
