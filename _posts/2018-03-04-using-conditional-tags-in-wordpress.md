@@ -2,14 +2,14 @@
 ID: 4490
 post_title: Using Conditional Tags in WordPress
 author: Joseph Dickson
-post_excerpt: ""
+post_excerpt: "This introductory example will show you how to display some of the post author's user information when on an individual post or the author's archive page."
 layout: post
 permalink: >
   https://inlandempirewp.com/using-conditional-tags-in-wordpress/
 published: true
 post_date: 2018-03-04 17:45:03
 ---
-Conditional tags can be used to customize your WordPress website when <strong>TRUE</strong> or <strong>FALSE</strong> conditions are met.
+Conditional Tags can be used to customize your WordPress website when <strong>TRUE</strong> or <strong>FALSE</strong> conditions are met.
 
 This introductory example will show you how to display some of the post author's user information when on an individual post or the author's archive page.
 
