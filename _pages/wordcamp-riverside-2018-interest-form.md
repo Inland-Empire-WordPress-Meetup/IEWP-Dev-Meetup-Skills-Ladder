@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2018-05-05 09:28:56
 ---
-[gravityform id="4" title="true" description="true" ajax="true"]
+[gravityform id="4" title="true" description="false" ajax="true"]
