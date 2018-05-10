@@ -1,6 +1,6 @@
 ---
 ID: 4545
-post_title: 'WP Query: Reusable boilerplate text'
+post_title: 'WP Query: Reusable Boilerplate Text'
 author: Joseph Dickson
 post_excerpt: ""
 layout: post
