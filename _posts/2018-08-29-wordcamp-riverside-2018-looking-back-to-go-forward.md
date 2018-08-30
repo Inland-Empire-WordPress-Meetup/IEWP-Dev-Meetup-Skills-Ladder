@@ -30,6 +30,6 @@ post_date: 2018-08-29 18:53:11
 </ul>
 <b><i>Come Be Our Guest!</i></b>
 
-<a href="https://2017.riverside.wordcamp.org/tickets/"><span style="font-weight: 400;">Tickets</span></a><span style="font-weight: 400;"> go on sale September 1st so this  is the official invitation to you and anyone you know in the Southern California area: </span><span style="font-weight: 400;">Our theme is</span><b><i> Looking back to move forward! </i></b><span style="font-weight: 400;">Join us as we look back at the history of WordPress so we can appreciate where we have come from and what is to come. </span>
+<a href="https://2018.riverside.wordcamp.org/tickets/"><span style="font-weight: 400;">Tickets</span></a><span style="font-weight: 400;"> go on sale September 1st so this  is the official invitation to you and anyone you know in the Southern California area: </span><span style="font-weight: 400;">Our theme is</span><b><i> Looking back to move forward! </i></b><span style="font-weight: 400;">Join us as we look back at the history of WordPress so we can appreciate where we have come from and what is to come. </span>
 
 &nbsp;
