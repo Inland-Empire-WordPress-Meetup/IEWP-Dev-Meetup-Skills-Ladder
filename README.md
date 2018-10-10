@@ -44,6 +44,10 @@ Since each of the bulleted topics below will be a lesson for our Dev meetup as a
 
 • Options/Settings API
 
+• Gutenberg Blocks - Embracing the Block
+
+• WP CLI
+
 • Rest API
 
 • WP Cron
