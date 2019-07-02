@@ -11,7 +11,7 @@ post_date: 2019-07-02 07:20:56
 ---
 &nbsp;
 
-<img class="alignnone size-medium wp-image-4636" src="https://inlandempirewp.com/wp-content/uploads/2019/07/Top-5-Marketing-Mistakes-IEWP-Blog-Cover-300x157.png" alt="" width="300" height="157" />
+<img class="alignnone wp-image-4636 size-full" src="https://inlandempirewp.com/wp-content/uploads/2019/07/Top-5-Marketing-Mistakes-IEWP-Blog-Cover.png" alt="" width="960" height="503" />
 
 It's time once again for our monthly WP General Meetup meeting on Tuesday July 2, 2019, from 7pm til 9pm.
 
