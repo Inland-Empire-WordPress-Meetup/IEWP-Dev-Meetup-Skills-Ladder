@@ -25,4 +25,4 @@ You've set up your website, you know you need traffic to visit your website. You
 
 Do you like Tacos? Lake Alice has a great deal for Taco Tuesday.
 
-We will meet beforehand for dinner at Lake Alice, 3616 University Ave, Riverside, CA 92501. We will be from 5:15pm til 6:15pm. We will head to the Venue at 6:30pm &amp;amp; OUR Meetup starts at 7pm.
+We will meet beforehand for dinner at Lake Alice, 3616 University Ave, Riverside, CA 92501. We will be from 5:15pm til 6:15pm. We will head to the Venue at 6:30pm &amp; OUR Meetup starts at 7pm.
