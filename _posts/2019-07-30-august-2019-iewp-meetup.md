@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2019-07-30 13:37:31
 ---
-<img class="wp-image-4655 aligncenter" src="https://inlandempirewp.com/wp-content/uploads/2019/07/IEWP-August-Monthly-Meetup-1-300x169.png" alt="" width="397" height="224" />
+<img class="wp-image-4655 aligncenter" src="https://inlandempirewp.com/wp-content/uploads/2019/07/IEWP-August-Monthly-Meetup-1-300x169.png" alt="" width="708" height="399" />
 
 &nbsp;
 
