@@ -11,3 +11,4 @@ permalink: >
 published: true
 post_date: 2019-10-31 12:29:33
 ---
+[gravityform id="8" title="true" description="true" ajax="true"]
