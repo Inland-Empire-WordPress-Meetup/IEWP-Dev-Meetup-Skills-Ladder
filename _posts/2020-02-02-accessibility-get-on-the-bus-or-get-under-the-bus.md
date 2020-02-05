@@ -30,3 +30,12 @@ Always come with your questions.
 <a href="http://RIVERSIDEOED.COM"><img class="alignnone wp-image-4708" src="https://inlandempirewp.com/wp-content/uploads/2020/02/RCCD-Office-of-Economic-Devel-300x32.png" alt="" width="404" height="43" /></a>                <a href="http://riversideoed.com"><img class="alignnone wp-image-4709" src="https://inlandempirewp.com/wp-content/uploads/2020/02/Riverside-Community-College-District.jpg" alt="" width="300" height="41" /></a>
 
 <a href="https://www.meetup.com/inlandempirewp/events/jpmnspybcdbgb/"><strong>RSVP  TODAY</strong></a> so we have plenty of pizza for everyone.
+
+&nbsp;
+
+&nbsp;
+<h3><strong>Summary / Recap</strong></h3>
+&nbsp;
+
+&nbsp;
+<div class="fb-video" data-href="https://www.facebook.com/inlandempirewp/videos/179853423250340/" data-width="500" data-show-text="true"><blockquote cite="https://developers.facebook.com/inlandempirewp/videos/179853423250340/" class="fb-xfbml-parse-ignore"><a href="https://developers.facebook.com/inlandempirewp/videos/179853423250340/"></a><p>STREAMING NOW:  Accessibility, get on the bus or get under the bus. With Glen Ingram of Web Search Pros.</p>Posted by <a href="https://www.facebook.com/inlandempirewp/">Inland Empire WP Meetup Group</a> on Tuesday, February 4, 2020</blockquote></div>
