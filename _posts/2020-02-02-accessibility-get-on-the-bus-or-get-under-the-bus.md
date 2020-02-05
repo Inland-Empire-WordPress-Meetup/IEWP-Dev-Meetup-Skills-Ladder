@@ -38,4 +38,7 @@ Always come with your questions.
 &nbsp;
 
 &nbsp;
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v6.0&appId=158691714216380&autoLogAppEvents=1"></script>
+
 <div class="fb-video" data-href="https://www.facebook.com/inlandempirewp/videos/179853423250340/" data-width="500" data-show-text="true"><blockquote cite="https://developers.facebook.com/inlandempirewp/videos/179853423250340/" class="fb-xfbml-parse-ignore"><a href="https://developers.facebook.com/inlandempirewp/videos/179853423250340/"></a><p>STREAMING NOW:  Accessibility, get on the bus or get under the bus. With Glen Ingram of Web Search Pros.</p>Posted by <a href="https://www.facebook.com/inlandempirewp/">Inland Empire WP Meetup Group</a> on Tuesday, February 4, 2020</blockquote></div>
