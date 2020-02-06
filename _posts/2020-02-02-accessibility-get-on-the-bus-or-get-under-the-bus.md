@@ -41,4 +41,6 @@ https://www.youtube.com/watch?v=lQFTp26EEqg
 
 &nbsp;
 
-Glen's PDF Presentation
+<strong>PDF PRESENTATION</strong>
+
+<a href="https://drive.google.com/file/d/1hF7igKue7a6K4Z6ZXzPZSfVYqfgsfr3b/view?usp=sharing" target="_blank" rel="noopener noreferrer">View Glen's PDF Presentation</a>
