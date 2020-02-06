@@ -1,8 +1,8 @@
 ---
 ID: 4704
 post_title: >
-  ACCESSIBILITY, GET ON THE BUS OR GET
-  UNDER THE BUS
+  Accessibility, Get on the bus or get
+  under the bus.
 author: Cathie Seifen
 post_excerpt: ""
 layout: post
