@@ -35,9 +35,7 @@ Always come with your questions.
 
 &nbsp;
 <h3><strong>Summary / Recap</strong></h3>
-&nbsp;
-
-&nbsp;
+If you did not make it out last night to our general meetup, we got you covered!  Below is the video of the entire presentation by Glen Ingram.  Below the video you can find a direct link to his presentation slides.
 
 https://www.youtube.com/watch?v=lQFTp26EEqg
 
